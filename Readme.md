@@ -61,4 +61,12 @@
         - Solve a higher level question even if you haven’t solved the layers
         - You can block a question from one attempted try
         - Start block gives you 2 points
+
+- This project is made by team J 
+    - ***[Prateek Sancheti](https://github.com/psancheti110)***,  
+    - ***[Abdullah Mujtaba](https://github.com/abd808)***,  
+    - ***[Kevin Vargis](https://github.com/KevinVargis)***,  
+    - ***[Yash Chauhan](https://github.com/2oYC)***,  
+    - ***[Dinesh Garg](https://github.com/Dineshg49)***  
+    for the course **Algorithm Analysis and Design (Prof. Kannan Srinathan)**.
  
